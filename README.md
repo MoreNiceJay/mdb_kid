@@ -1,2 +1,2 @@
-# mdb_kid
+# react_pdf
 Created with CodeSandbox
